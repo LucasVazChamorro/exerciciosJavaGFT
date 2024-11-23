@@ -4,7 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Associacao/Associacao.iml" filepath="$PROJECT_DIR$/Associacao/Associacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturasRepeticao/EstruturasRepeticao.iml" filepath="$PROJECT_DIR$/EstruturasRepeticao/EstruturasRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaGFT.iml" filepath="$PROJECT_DIR$/JavaGFT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos2/Metodos2.iml" filepath="$PROJECT_DIR$/Metodos2/Metodos2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrientacaoObjetos/OrientacaoObjetos.iml" filepath="$PROJECT_DIR$/OrientacaoObjetos/OrientacaoObjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrientacaoObjetos2/OrientacaoObjetos2.iml" filepath="$PROJECT_DIR$/OrientacaoObjetos2/OrientacaoObjetos2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrientacaoObjetos3/OrientacaoObjetos3.iml" filepath="$PROJECT_DIR$/OrientacaoObjetos3/OrientacaoObjetos3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visibilidade/Pacote1/Pacote1.iml" filepath="$PROJECT_DIR$/Visibilidade/Pacote1/Pacote1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visibilidade/Pacote2/Pacote2.iml" filepath="$PROJECT_DIR$/Visibilidade/Pacote2/Pacote2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PolimorfismoSobrescrita/PolimorfismoSobrescrita.iml" filepath="$PROJECT_DIR$/PolimorfismoSobrescrita/PolimorfismoSobrescrita.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visibilidade/Visibilidade.iml" filepath="$PROJECT_DIR$/Visibilidade/Visibilidade.iml" />
     </modules>
   </component>
 </project>
